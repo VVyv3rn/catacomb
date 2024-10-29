@@ -1,5 +1,5 @@
 # Catacomb
-WIP of a rogue like dungeon crawler coded in Java. There is not much to do in the game as its still in a very early state.
+Work in progress for a rogue like dungeon crawler coded in Java. There is not much to do in the game as its still in a very early state.
 
 ## Purpose<br/> 
 This is meant to be a start for me getting into game development and I wanted to make a combat based game<br/> 
