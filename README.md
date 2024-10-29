@@ -4,11 +4,11 @@ Work in progress for a rogue like dungeon crawler coded in Java. There is not mu
 ## Purpose<br/> 
 This is meant to be a start for me getting into game development and I wanted to make a combat based game<br/> 
 currently theres only:<br/> 
--basic combat<br/> 
--leveling<br/> 
--enemies to kill<br/> 
--a buggy inventory<br/> 
--buggy spawn mechanics<br/> 
+- basic combat<br/> 
+- leveling<br/> 
+- enemies to kill<br/> 
+- a buggy inventory<br/> 
+- buggy spawn mechanics<br/> 
 
 ## How to run
 - In order to run this program you will need to have Java installed<br/> 
